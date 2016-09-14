@@ -2,3 +2,8 @@
 /libs
 /gen
 .settings/org.eclipse.jdt.core.prefs
+.gradle/
+.idea/
+build/
+*.iml
+local.properties
